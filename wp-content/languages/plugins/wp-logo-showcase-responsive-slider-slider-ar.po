@@ -1,0 +1,518 @@
+# Translation of Plugins - WP Logo Showcase Responsive Slider and Carousel - Development (trunk) in Arabic
+# This file is distributed under the same license as the Plugins - WP Logo Showcase Responsive Slider and Carousel - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-01 18:39:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - WP Logo Showcase Responsive Slider and Carousel - Development (trunk)\n"
+
+#: includes/admin/class-wpls-admin.php:166
+msgid "Solutions & Features"
+msgstr "حلول وميزات"
+
+#: includes/admin/class-wpls-admin.php:166
+msgid "Solutions & Features - Logo Showcase Responsive Slider"
+msgstr "حلول وميزات - عارض شرائح لمعرض شعارات"
+
+#: includes/admin/settings/how-it-work.php:245
+msgid "Grab Logo Showcase Now"
+msgstr "الحصول على Logo Showcase الآن"
+
+#: includes/admin/settings/how-it-work.php:244
+msgid "Gain access to <strong>Logo Showcase Responsive Slider</strong>"
+msgstr "الوصول إلى <strong>عارض شرائح لمعرض شعارات متجاوب (Logo Showcase Responsive Slider)</strong>"
+
+#: includes/admin/settings/how-it-work.php:217
+msgid "Logo Showcase Premium Features"
+msgstr "مميزات عارض شرائح لمعرض شعارات Premium"
+
+#: includes/admin/settings/how-it-work.php:159
+#: includes/admin/settings/how-it-work.php:185
+msgid "Grab Now"
+msgstr "الحصول عليها الآن"
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:40
+#: includes/admin/metabox/wpls-post-setting-metabox.php:51
+msgid "Utilize this <a href=\"%s\" target=\"_blank\">Premium Features</a> to get best of this plugin."
+msgstr "استخدم <a href=\"%s\" target=\"_blank\">مميزات Premium </a> للحصول على أفضل ما في هذه الإضافة."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:14
+msgid "Utilize these <a href=\"%s\" target=\"_blank\">Premium Features</a> to get best of this plugin."
+msgstr "استخدم <a href=\"%s\" target=\"_blank\">مميزات Premium </a> للحصول على أفضل ما في هذه الإضافة."
+
+#: includes/admin/class-wpls-admin.php:171
+msgid "Bundle Deal"
+msgstr "صفقة الحزمة"
+
+#: includes/admin/class-wpls-admin.php:171
+msgid "Bundle Deal - Logo Showcase Responsive Slider"
+msgstr "صفقة الحزمة - عارض شرائح لمعرض شعارات متجاوب"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Essential Plugin Bundle Free Trial"
+msgstr "نسخة مجانية تجريبية لحزمة Essential Plugin"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Logo Showcase with "
+msgstr "عارض شرائح الشعارات (Logo Showcase) مع"
+
+#: includes/admin/settings/premium.php:90
+msgid "Compare \"Logo Showcase Responsive Slider\" Free VS Pro"
+msgstr "مقارنة \"Logo Showcase Responsive Slider\" المجانية VS البريميوم Pro"
+
+#: includes/admin/settings/premium.php:15
+msgid "Logo Showcase Responsive Slider"
+msgstr "عارض شرائح لمعرض شعارات متجاوب"
+
+#: includes/admin/settings/how-it-work.php:92
+msgid "Check Documentation"
+msgstr "ألق نظرة على الوثائق والمستندات"
+
+#: includes/admin/settings/how-it-work.php:141
+msgid "Need Support & Solutions?"
+msgstr "بحاجة إلى دعم وحلول؟"
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:28
+msgid "Enter link url for logo. i.e https://www.essentialplugin.com/"
+msgstr "أدخل رابط الشعار. على سبيل المثال: https://www.essentialplugin.com"
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr "دعم فني Essential Plugin"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/wordpress-plugin/wp-logo-showcase-responsive-slider/"
+msgstr "https://www.essentialplugin.com/wordpress-plugin/wp-logo-showcase-responsive-slider/"
+
+#. Plugin Name of the plugin
+msgid "WP Logo Showcase Responsive Slider and Carousel"
+msgstr "WP Logo Showcase Responsive Slider and Carousel عارض شرائح ومعرض دائري مستجيب للشعارات"
+
+#: includes/admin/class-wpls-admin.php:106
+msgid "More Premium - Settings"
+msgstr "المزيد من Premium - إعدادات"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:87
+msgid "Do not display the logos & Do not display the logos for particular categories."
+msgstr "لا تعرض الشعارات ولا تعرض الشعارات الخاصة بتصنيفات معينة."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:84
+msgid "Exclude Logos and Exclude Some Categories"
+msgstr "استبعاد الشعارات واستبعاد بعض التصنيفات"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:78
+msgid "Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer and Fusion Page Builder Support"
+msgstr "دعم مكوّن Gutenberg، إضافة Elementor، و Bevear Builder و SiteOrigin و Divi و Visual Composer و Fusion Page Builder"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:75
+msgid "Page Builder Support"
+msgstr "دعم أداة بناء الصفحة (Page Builder)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:69
+msgid "Arrange your desired slides with your desired order and display."
+msgstr "رتّب الشرائح التي تريدها بالترتيب والعرض المطلوبين."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:66
+msgid "Drag & Drop Slide Order Change"
+msgstr "سحب وإفلات لتغيير ترتيب الشرائح (Drag & Drop Slide Order Change)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:60
+msgid "Enable tooltip on logo."
+msgstr "تفعيل التلميح على الشعار."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:57
+msgid "Tooltip"
+msgstr "التلميح (Tooltip)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:51
+msgid "Play with all shortcode parameters with preview panel. No documentation required."
+msgstr "جرب استخدامك مع جميع معلمات الكود القصير باستخدام لوحة المعاينة. لا مستندات ووثائق مطلوبة."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:48
+msgid "Shortcode Generator "
+msgstr "أداة توليد الكود القصير (Shortcode Generator)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:42
+msgid "You can modify plugin html/designs in your current theme."
+msgstr "يمكنك تعديل تصميم/html الإضافة ضمن قالبك الحالي."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:39
+msgid "WP Templating Features "
+msgstr "ميزات قوالب (WP Templating)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:33
+msgid " In lite version only one design."
+msgstr "في الإصدار lite تصميم واحد فقط."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:30
+msgid "Designs"
+msgstr "التصميم (Designs)"
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:23
+msgid "6 (Grid,  Slider, Center, List, Ticker and Filter ). In lite version only Slider and Center layout."
+msgstr "6 -> شبكي (Grid)، عارض شرائح (Slider)، توسيط (Center) ،القائمة(List)، وضع المؤشر(Ticker)، والفلترة (Filter). في الإصدار lite، تخطيط عارض شرائح (Slider)، توسيط (Center) فقط."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:20
+msgid "Layouts"
+msgstr "التخطيطات (Layouts)"
+
+#: includes/admin/settings/how-it-work.php:239
+msgid "Logo Showcase with tool-tip with 5 tool-tip theme and various parameters."
+msgstr "معرض الشعارات مع أداة التلميح (tool-tip) مع 5 قوالب tool-tip ومعلمات (parameters) مختلفة."
+
+#: includes/admin/settings/how-it-work.php:238
+msgid "Fusion Page Builder (Avada) native support. <span class=\"wpos-new-feature\">New</span>"
+msgstr "دعم Fusion Page Builder (Avada) native. <span class=\"wpos-new-feature\">New</span>"
+
+#: includes/shortcode/wpls-logo-slider.php:31
+#: includes/shortcode/wpls-logo-slider.php:39
+msgid "Logo Showcase View"
+msgstr "عرض معرض الشعارات"
+
+#: includes/admin/settings/how-it-work.php:237
+msgid "Divi Page Builder Native Support.<span class=\"wpos-new-feature\">New</span>"
+msgstr "دعم Divi Page Builder Native. <span class=\"wpos-new-feature\">New</span>"
+
+#: includes/admin/settings/how-it-work.php:236
+msgid "Gutenberg, Elementor, Beaver and SiteOrigin Page Builder Support. <span class=\"wpos-new-feature\">New</span>"
+msgstr "دعم Gutenberg و Elementor و Beaver و SiteOrigin Page Builder. <span class=\"wpos-new-feature\">جديد</span>"
+
+#: includes/admin/settings/how-it-work.php:127
+msgid "Step-3. Add any block of logoshowcase and you will find its relative options on the right end side."
+msgstr "الخطوة الثالثة. أضف أي مكوّن من logoshowcase وستجد خياراتها المرتبطة بها على الجانب الأيمن."
+
+#: includes/admin/settings/how-it-work.php:126
+msgid "Step-2. Search \"logoshowcase\" keyword in the gutenberg block list."
+msgstr "الخطوة الثانية. البحث عن الكلمة المفتاحية \"logoshowcase\" في قائمة المكوّنات Gutenberg."
+
+#: includes/admin/settings/how-it-work.php:125
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr "الخطوة الأولى. الإنتقال إلى محرر المكوّنات (Gutenberg) لصفحتك."
+
+#: includes/admin/settings/how-it-work.php:121
+msgid "How it Work"
+msgstr "كيفية العمل"
+
+#: includes/admin/settings/how-it-work.php:113
+msgid "Gutenberg Support"
+msgstr "دعم Gutenberg"
+
+#: includes/admin/settings/how-it-work.php:84
+msgid "Logo Showcase Slider limit -1 to display all logos, by defualt display only 15 logos."
+msgstr "حد (Logo Showcase Slider) مستعرض معرض الشعارات -1 لعرض جميع الشعارات، افتراضياً يعرض 15 شعارًا فقط."
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:50
+msgid "Enter external URL of logo. If you don not want to use an image from your media gallery, you can set an URL for logo image here."
+msgstr "أدخل رابط URL خارجيًا للشعار. إذا كنت لا تريد استخدام صورة من معرض الوسائط الخاص بك، فيمكنك تعيين رابط URL لصورة الشعار هنا."
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:46
+msgid "Logo Image URL"
+msgstr "رابط URL لصورة الشعار"
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:39
+msgid "Enter logo description using default wordpress content editor."
+msgstr "أدخل وصف الشعار باستخدام محرر محتوى ووردبريس الافتراضي."
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:30
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:39
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:48
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:57
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:66
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:75
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:84
+#: includes/admin/metabox/wpls-post-setting-metabox.php:34
+#: includes/admin/metabox/wpls-post-setting-metabox.php:46
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:34
+msgid "Logo Description"
+msgstr "وصف الشعار"
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:24
+msgid "Logo Link"
+msgstr "رابط الشعار"
+
+#: includes/admin/class-wpls-admin.php:105
+msgid "WP Logo Showcase Responsive Slider - Settings"
+msgstr "إضافة WP Logo Showcase Responsive Slider معرض الشعارات - الإعدادات"
+
+#: includes/admin/settings/how-it-work.php:205
+msgid "Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" target=\"_blank\">5 stars!"
+msgstr "استمعت بهذه الإضافة؟ يمكنك المساعدة من خلال تقييم  هذه الإضافة بـ <a href=\"%s\" target=\"_blank\">5 نجوم!"
+
+#: includes/admin/settings/how-it-work.php:242
+msgid "100% Multi language"
+msgstr "متعدد اللغات 100%"
+
+#: includes/admin/settings/how-it-work.php:241
+msgid "Fully responsive"
+msgstr "متجاوب بشكل كامل"
+
+#: includes/admin/settings/how-it-work.php:240
+msgid "Custom CSS option"
+msgstr "خيار CSS مخصص"
+
+#: includes/admin/settings/how-it-work.php:235
+msgid "Visual Composer support."
+msgstr "دعم Visual Composer."
+
+#: includes/admin/settings/how-it-work.php:234
+msgid "Set image size for logo among WordPress image size."
+msgstr "تعيين حجم الصورة للشعار ضمن حجم صورة ووردبريس."
+
+#: includes/admin/settings/how-it-work.php:233
+msgid "Display logo showcase categories wise."
+msgstr "عرض تصنيفات معرض الشعارات wise."
+
+#: includes/admin/settings/how-it-work.php:232
+msgid "Slider RTL support."
+msgstr "دعم عارض شرائح RTL."
+
+#: includes/admin/settings/how-it-work.php:231
+msgid "Display Logo with title and description"
+msgstr "عرض شعار مع عنوان ووصف"
+
+#: includes/admin/settings/how-it-work.php:230
+msgid "2 Widgets- Slider and Grid view."
+msgstr "2 من الودجات - عارض شرائح (Slider) وعرض شبكي (Grid view)."
+
+#: includes/admin/settings/how-it-work.php:229
+msgid "Logo Showcase With Ticker Mode"
+msgstr "معرض الشعارات مع وضع المؤشر"
+
+#: includes/admin/settings/how-it-work.php:228
+msgid "Display logo showcase in center mode view"
+msgstr "عرض معرض الشعارات (logo showcase) بـ وضع التوسيط"
+
+#: includes/admin/settings/how-it-work.php:227
+msgid "Display logo showcase in slider view"
+msgstr "عرض معرض الشعارات (logo showcase) بـ عرض سلايدر (slider view)."
+
+#: includes/admin/settings/how-it-work.php:226
+msgid "Display logo with filtration."
+msgstr "عرض الشعار مع الفلترة."
+
+#: includes/admin/settings/how-it-work.php:225
+msgid "Display logo showcase in a grid view."
+msgstr "عرض معرض الشعار (logo showcase) بـ عرض شبكي."
+
+#: includes/admin/settings/how-it-work.php:224
+msgid "Drag & Drop order change"
+msgstr "سحب وإفلات لتغيير الترتيب"
+
+#: includes/admin/settings/how-it-work.php:223
+msgid "3 shortcodes [logoshowcase], [logo_grid] and [logo_filter]"
+msgstr "3 أكواد قصيرة [logoshowcase] و [logo_grid] و [logo_filter]"
+
+#: includes/admin/settings/how-it-work.php:222
+msgid "15+ predefined template for logo showcase."
+msgstr "15+ قالب محدد مسبقًا لمعرض الشعار (logo showcase)."
+
+#: includes/admin/supports/gutenberg-block.php:166
+msgid "WPOS Blocks"
+msgstr "مكوّنات WPOS"
+
+#. Description of the plugin
+msgid "Easy to add and display Logo Showcase Responsive Slider on your website. Also added Gutenberg block support."
+msgstr "من السهل إضافة وعرض عارض شرائح لمعرض شعارات (Logo Showcase Responsive Slider) على موقع الويب الخاص بك. تمت إضافة الدعم لمكوّنات Gutenberg أيضًا."
+
+#: logo-showcase.php:188
+msgid "It looks like you had PRO version %s of this plugin activated. To avoid conflicts the extra version has been deactivated and we recommend you delete it."
+msgstr "يبدو أنه تم تنشيط إصدار PRO %s من هذه الإضافة. لتجنب التعارض، تم تعطيل الإصدار الإضافي وننصحك بحذفه."
+
+#: logo-showcase.php:187
+msgid "Thank you for activating %s"
+msgstr "شكرًا لك على تنشيط %s!"
+
+#: wpos-analytics/wpos-analytics.php:60 wpos-analytics/wpos-analytics.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr "تتحايل، هاه؟"
+
+#: wpos-analytics/includes/class-anylc-admin.php:405
+#: wpos-analytics/includes/class-anylc-admin.php:424
+#: wpos-analytics/includes/class-anylc-admin.php:443
+msgid "Sorry, Something happened wrong."
+msgstr "عذرًا، حدث خطأ ما."
+
+#: wpos-analytics/includes/class-anylc-admin.php:230
+msgid "Opt In"
+msgstr "انضمام"
+
+#: wpos-analytics/includes/class-anylc-admin.php:224
+msgid "Opt Out"
+msgstr "إلغاء الاشتراك"
+
+#: includes/wpls-post-types.php:29
+msgid "Remove logo image"
+msgstr "إزالة صورة الشعار"
+
+#: includes/wpls-post-types.php:27 includes/wpls-post-types.php:28
+msgid "Set logo image"
+msgstr "تعيين صورة الشعار"
+
+#: includes/admin/class-wpls-admin.php:169
+msgid "Upgrade To PRO - Logo Showcase Responsive Slider"
+msgstr "الترقية إلى PRO - عارض شرائح لمعرض شعارات متجاوب"
+
+#: includes/wpls-post-types.php:59 includes/wpls-post-types.php:60
+msgctxt "wp-logo-showcase-responsive-slider-slider"
+msgid "Category"
+msgstr "التصنيف"
+
+#: includes/admin/class-wpls-admin.php:231
+msgid "Category Shortcode"
+msgstr "الكود القصير للتصنيف"
+
+#: includes/wpls-functions.php:83 assets/js/blocks.build.js:1
+msgid "Design 1"
+msgstr "التصميم 1"
+
+#: includes/admin/settings/how-it-work.php:83
+msgid "Logo Showcase Slider with center mode Shortcode"
+msgstr "عارض شرائح لمعرض شعارات مع وضع الكود القصير بالمنتصف"
+
+#: includes/wpls-post-types.php:69
+msgid "Logo Category"
+msgstr "تصنيفات الشعارات"
+
+#: includes/wpls-post-types.php:68
+msgid "New Category Name"
+msgstr "اسم التصنيف الجديد"
+
+#: includes/wpls-post-types.php:67
+msgid "Add New Category"
+msgstr "إضافة تصنيف جديد"
+
+#: includes/wpls-post-types.php:66
+msgid "Update Category"
+msgstr "تحديث التصنيف"
+
+#: includes/wpls-post-types.php:65
+msgid "Edit Category"
+msgstr "تحرير التصنيف"
+
+#: includes/wpls-post-types.php:64
+msgid "Parent Category:"
+msgstr "التصنيف الرئيسي:"
+
+#: includes/wpls-post-types.php:63
+msgid "Parent Category"
+msgstr "التصنيف الرئيسي"
+
+#: includes/wpls-post-types.php:62
+msgid "All Category"
+msgstr "كل التصنيفات"
+
+#: includes/wpls-post-types.php:61
+msgid "Search Category"
+msgstr "البحث في التصنيفات"
+
+#: includes/wpls-post-types.php:16 includes/wpls-post-types.php:17
+#: includes/wpls-post-types.php:31
+msgid "Logo Showcase"
+msgstr "معرض الشعارات"
+
+#: includes/wpls-post-types.php:26
+msgid "No Logo Showcase found in Trash"
+msgstr "لم يتم العثور على معرض شعار في سلة المهملات"
+
+#: includes/wpls-post-types.php:25
+msgid "No Logo Showcase found"
+msgstr "لم يتم العثور على معرض شعار"
+
+#: includes/wpls-post-types.php:24
+msgid "Search Logo Showcase"
+msgstr "البحث في معرض الشعارات"
+
+#: includes/wpls-post-types.php:23
+msgid "View Logo Showcase"
+msgstr "عرض معرض الشعارات"
+
+#: includes/wpls-post-types.php:22
+msgid "All Logo Showcase"
+msgstr "جميع الشعارات المعروضة"
+
+#: includes/wpls-post-types.php:21
+msgid "New Logo Showcase"
+msgstr "عرض شعار جديد"
+
+#: includes/wpls-post-types.php:20
+msgid "Edit Logo Showcase"
+msgstr "تحرير عرض الشعار"
+
+#: includes/wpls-post-types.php:19
+msgid "Add New Logo Showcase"
+msgstr "إضافة لعرض شعار جديد"
+
+#: includes/wpls-post-types.php:18
+msgid "Add New"
+msgstr "أضف جديداً"
+
+#: includes/admin/settings/how-it-work.php:201
+msgid "Help to improve this plugin!"
+msgstr "ساعد في تحسين هذه الإضافة!"
+
+#: includes/admin/settings/how-it-work.php:89
+msgid "Documentation"
+msgstr "وثائق المساعدة"
+
+#: includes/admin/settings/how-it-work.php:82
+msgid "Logo Showcase Slider Shortcode"
+msgstr "الكود القصير لعارض شرائح الشعارات"
+
+#: includes/admin/settings/how-it-work.php:79
+msgid "All Shortcodes"
+msgstr "كل الأكواد القصيرة"
+
+#: includes/admin/settings/how-it-work.php:72
+msgid "Step-2. Put below shortcode as per your need."
+msgstr "الخطوة الثانية. ضع الكود القصير أدناه حسب حاجتك."
+
+#: includes/admin/settings/how-it-work.php:71
+msgid "Step-1. Create a page like Logoshose OR add the shortcode in any page."
+msgstr "الخطوة 1. إنشاء صفحة مثل ClientLogo أو أضف الكود القصير (shortcode) في أي صفحة."
+
+#: includes/admin/settings/how-it-work.php:67
+msgid "How Shortcode Works"
+msgstr "كيفية عمل الكود القصير"
+
+#: includes/admin/settings/how-it-work.php:60
+msgid "Step-4. Assign logo showcase post to respective categories and use the category shortcode under \"Logo Showcase --> category\""
+msgstr "الخطوة الرابعة. قم بتعيين منشور معرض الشعارات للتصنيفات المعنية واستخدم الكود القصير (shortcode) الموجود ضمن تبويب \"معرض الشعارات --> تصنيفات\""
+
+#: includes/admin/settings/how-it-work.php:59
+msgid "Step-3. Display multiple logo showcase, create categories under \"Logo Showcase --> category\" and create categories."
+msgstr "الخطوة الثالثة. عرض معرض الشعارات المتعدد، إنشاء تصنيفات ضمن التبويب \"معرض الشعارات --> تصنيفات\" لإنشاء تصنيفات."
+
+#: includes/admin/settings/how-it-work.php:58
+msgid "Step-2. Add Logo title, logo link to redirect(if need) and logo image under featured image section."
+msgstr "الخطوة الثانية. أضف عنوان الشعار، ورابط الشعار لإعاجى التوجيه (إذا لزم الأمر) وصورة الشعار أسفل قسم الصورة البارزة."
+
+#: includes/admin/settings/how-it-work.php:57
+msgid "Step-1. Go to \"Logo Showcase --> Add New\"."
+msgstr "الخطوة الأولى. الانتقال إلى  \"معرض الشعارات --> أضف جديداً\"."
+
+#: includes/admin/settings/how-it-work.php:53
+msgid "Getting Started with Logo Showcase"
+msgstr "البدء مع معرض الشعارات (Logo Showcase)"
+
+#: includes/admin/settings/how-it-work.php:45
+msgid "How It Works - Display and shortcode"
+msgstr "كيفية العمل - العرض والكود القصير"
+
+#: includes/admin/class-wpls-admin.php:163
+#: includes/admin/settings/how-it-work.php:35
+msgid "How It Works"
+msgstr "كيفية العمل"
+
+#: includes/admin/class-wpls-admin.php:163
+msgid "How it works, our plugins and offers"
+msgstr "كيف تعمل، إضافاتنا وعروضنا"
